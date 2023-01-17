@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418844055842",
+    "project_id": "mafimenu-f9eb6",
+    "storage_bucket": "mafimenu-f9eb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418844055842:android:fed983c01bf26c5ca22d7b",
+        "android_client_info": {
+          "package_name": "com.example.mafi_menu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418844055842-tf380ueehflv0ii9ldq4hu53pfkdemvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjBKO-ZPKL-UZ-ohhKXXCGN4GdCsB1pSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418844055842-tf380ueehflv0ii9ldq4hu53pfkdemvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
